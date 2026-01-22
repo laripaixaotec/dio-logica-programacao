@@ -141,6 +141,43 @@ OUTPUT: display the result
 
 ---
 
+## ⭐ Features
+**Features** are the functionalities or capabilities of a system or application.
+They describe *what the program can do*.
+
+### Examples of features:
+- User login system  
+- Character movement in a game  
+- Score counter  
+- Menu navigation  
+
+---
+
+### Features in games 🎮
+In game development, features represent player interactions and game mechanics.
+
+**Examples:**
+- Player movement  
+- Attack system  
+- Inventory system  
+- Save/load progress  
+
+---
+
+### Simple feature example
+Feature: Character Jump
+Input: Player presses the jump key
+Process: Apply jump force to the character
+Output: Character jumps on the screen
+
+
+---
+
+### Why features are important
+- Help organize development  
+- Make planning easier  
+- Allow breaking a project into smaller parts  
+- Improve communication inside a team
 ## 🧠 Why this matters
 - Every program follows this structure  
 - Games constantly use the IPO model:
