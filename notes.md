@@ -187,5 +187,27 @@ Output: Character jumps on the screen
 
 ---
 
-📌 *These notes will be updated as I progress through the bootcamp.*
+## 🧪 Practice Tool — PlayCode.io
+**PlayCode.io** is an online code editor used to practice programming logic.
+
+It allows writing and executing code directly in the browser, without installing any software.
+
+### Why I use PlayCode.io:
+- Practice programming logic in a simple environment  
+- Test inputs and outputs quickly  
+- Focus on learning logic before complex tools  
+- Useful for beginners  
+
+---
+
+### Example of use
+Input: User enters a number
+Process: Multiply the number by 2
+Output: Display the result
+
+
+---
+
+📌 *This tool is being used during my programming logic bootcamp.*
+
 
